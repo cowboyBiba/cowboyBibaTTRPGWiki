@@ -9,4 +9,6 @@ Shadowdark — это исследование древних руин, забы
 
 ### Полезные материалы
 
-Базовые правила игры: 
+Базовые правила игры: https://cowboybiba.github.io/cowboyBibaTTRPGWiki/Shadow-Dark/Shadow-Dark.-Механики-и-правила/Базовые-правила-игры
+Создание персонажа: https://cowboybiba.github.io/cowboyBibaTTRPGWiki/Shadow-Dark/Shadow-Dark.-Механики-и-правила/Создание-персонажа
+Описание мира: https://cowboybiba.github.io/cowboyBibaTTRPGWiki/Shadow-Dark/Башня-подземелья/Внутри-башни/Башня-подземелья
