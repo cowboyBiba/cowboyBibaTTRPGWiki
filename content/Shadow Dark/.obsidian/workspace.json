@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Изображения/Pasted image 20260516201750.png"
+                "file": "Изображения/Pasted image 20260516201750 1.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260516201750"
+              "title": "Pasted image 20260516201750 1"
             }
           },
           {
@@ -267,17 +267,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9c882713ade06d5",
+  "active": "da33c8a40d493f38",
   "lastOpenFiles": [
-    "Pasted image 20260621170727.png",
-    "Pasted image 20260628190122.png",
-    "Pasted image 20260808144141.png",
-    "Pasted image 20260808131752.png",
-    "Pasted image 20260913153141.png",
-    "Pasted image 20260706195344.png",
-    "Pasted image 20260808131627.png",
-    "Pasted image 20260621170700.png",
-    "Pasted image 20260627130907.png",
+    "Изображения/Pasted image 20260516201750.png",
+    "Изображения/Pasted image 20260621170727 1.png",
+    "Изображения/Pasted image 20260628190122 1.png",
+    "Изображения/Pasted image 20260808144141 1.png",
+    "Изображения/Pasted image 20260808131752 1.png",
+    "Изображения/Pasted image 20260913153141 1.png",
+    "Изображения/Pasted image 20260706195344 1.png",
+    "Изображения/Pasted image 20260808131627 1.png",
+    "Изображения/Pasted image 20260621170700 1.png",
+    "Изображения/Pasted image 20260627130907 1.png",
     "Башня подземелья/Заметки для кампании/Квесты/Требуются умелые охотники!.md",
     "Башня подземелья/Заметки для кампании/Квесты/Поход Драга Завоевателя.md",
     "Башня подземелья/Заметки для кампании/Квесты/Охота на изгнанницу Омелию.md",
@@ -313,7 +314,6 @@
     "Башня подземелья/Монстры башни",
     "Башня подземелья/Мир вне башни",
     "Башня подземелья/Важные для мира персонажи",
-    "Изображения/Pasted image 20260214144255.png",
-    "Изображения/Pasted image 20260424231233.png"
+    "Изображения/Pasted image 20260214144255.png"
   ]
 }
