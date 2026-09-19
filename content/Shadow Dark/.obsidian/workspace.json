@@ -11,12 +11,14 @@
             "id": "ab1fcce8af8af59a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Изображения/Pasted image 20260516201750 1.png"
+                "file": "Башня подземелья/Заметки для кампании/Квесты/100 томов Алура.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260516201750 1"
+              "icon": "lucide-file",
+              "title": "100 томов Алура"
             }
           },
           {
@@ -147,7 +149,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -267,8 +270,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da33c8a40d493f38",
+  "active": "ab1fcce8af8af59a",
   "lastOpenFiles": [
+    "Изображения/Pasted image 20260516201750 1.png",
     "Изображения/Pasted image 20260516201750.png",
     "Изображения/Pasted image 20260621170727 1.png",
     "Изображения/Pasted image 20260628190122 1.png",
@@ -313,7 +317,6 @@
     "Башня подземелья/Монстры башни/Статблоки",
     "Башня подземелья/Монстры башни",
     "Башня подземелья/Мир вне башни",
-    "Башня подземелья/Важные для мира персонажи",
-    "Изображения/Pasted image 20260214144255.png"
+    "Башня подземелья/Важные для мира персонажи"
   ]
 }
