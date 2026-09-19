@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "6fd876cf158449e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b216f0a8c71cb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425bd90b90809f60",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Для проведения/Shadowdark_RPG_-_V1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Shadowdark_RPG_-_V1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f29e1d58431d7685",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed2b7662b714317",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7422ac3c1ac4e0d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "0f4613590076a4a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "d1a24c91a819ad09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "007b2ea7d9737c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "beb02821bd67d75b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0e877a9c0a3c8a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Для проведения/Shadowdark_RPG_-_V1.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Shadowdark_RPG_-_V1"
+            }
+          },
+          {
+            "id": "f3b12a615ad81ad1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Для проведения/Shadowdark_RPG_-_V1.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Shadowdark_RPG_-_V1"
+            }
+          },
+          {
+            "id": "03eb4ed427384ded",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "878b6d6a4f49736c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "5f7e8aff44edd28e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Для проведения/Shadowdark_RPG_-_V1.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Shadowdark_RPG_-_V1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "425bd90b90809f60",
+  "lastOpenFiles": [
+    "Для проведения/Shadowdark_RPG_-_RUS_-_initial_release.pdf",
+    "Для проведения/Cursed_Scroll_1_-_Diablerie_V4-3.pdf"
+  ]
+}
