@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инициатива.md",
+                "file": "Shadow Dark. Механики и правила/Заклинания/Все заклинания/Слово силы Смерть.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Инициатива"
+              "title": "Слово силы Смерть"
             }
           },
           {
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "торгов",
+                "query": "слово",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +135,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,8 +259,8 @@
   },
   "active": "ab1fcce8af8af59a",
   "lastOpenFiles": [
-    "Башня подземелья/Мир вне башни/Волшебный магазинчик Мелиссы.md",
     "Инициатива.md",
+    "Башня подземелья/Мир вне башни/Волшебный магазинчик Мелиссы.md",
     "Shadow Dark. Механики и правила/Инвентарь.md",
     "Shadow Dark. Механики и правила/Заклинания/Заклинания ведьмы/Список заклинаний ведьмы.md",
     "Shadow Dark. Механики и правила/Заклинания/Все заклинания/Облачение стихии.md",
