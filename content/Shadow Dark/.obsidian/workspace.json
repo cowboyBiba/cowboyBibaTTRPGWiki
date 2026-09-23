@@ -135,7 +135,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -256,7 +257,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab1fcce8af8af59a",
+  "active": "d9f1f3c43be26f76",
   "lastOpenFiles": [
     "Башня подземелья/Монстры башни/Вариации столкновения.md",
     "Башня подземелья/Мир вне башни/Волшебный магазинчик Мелиссы.md",
